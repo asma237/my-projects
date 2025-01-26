@@ -19,11 +19,3 @@ Counters (e.g., up/down counter, modulo-N counter)
 Shift Registers (e.g., serial-in/serial-out, parallel-in/parallel-out)
 
 Finite State Machines (FSMs)
-
-Each project will be organized in its own dedicated folder.
-
-Each project folder will contain:
-
-Verilog source files (.v): Containing the Verilog code for the design.
-
-Testbench files (.v): Containing testbenches to verify the functionality of the design.
