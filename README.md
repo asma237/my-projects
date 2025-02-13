@@ -19,3 +19,5 @@ Counters (e.g., up/down counter, modulo-N counter)
 Shift Registers (e.g., serial-in/serial-out, parallel-in/parallel-out)
 
 Finite State Machines (FSMs)
+
+Also some of these files include solutions for the problem set in HDL bits.
